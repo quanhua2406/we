@@ -1,4 +1,5 @@
-/ Mảng chứa thông tin cho mỗi hình thu nhỏ
+
+// Mảng chứa thông tin cho mỗi hình thu nhỏ
 const images = [
   {
     src: "https://i.pinimg.com/736x/08/27/4c/08274c1605aa08bb42fec4d57ea1e632.jpg",
@@ -6,27 +7,27 @@ const images = [
     thumbAlt: "Hình ảnh màu đỏ",
   },
   {
-    src: "https://via.placeholder.com/500x300/00FF00/FFFFFF?text=Hình+Xanh+Lá",
+    src: "https://i.pinimg.com/736x/81/45/86/81458631b88c01f52de1f6b46012c40c.jpg",
     alt: "Hình lớn màu xanh lá",
     thumbAlt: "Hình ảnh màu xanh lá",
   },
   {
-    src: "https://via.placeholder.com/500x300/0000FF/FFFFFF?text=Hình+Xanh+Dương",
+    src: "https://i.pinimg.com/736x/f0/b6/ce/f0b6ce5a334490ba1ec286bd8bc348e9.jpg",
     alt: "Hình lớn màu xanh dương",
     thumbAlt: "Hình ảnh màu xanh dương",
   },
   {
-    src: "https://via.placeholder.com/500x300/FFFF00/000000?text=Hình+Vàng",
+    src: "https://i.pinimg.com/736x/e1/84/cc/e184ccda9a10550eed7d44cb83c75989.jpg",
     alt: "Hình lớn màu vàng",
     thumbAlt: "Hình ảnh màu vàng",
   },
   {
-    src: "https://via.placeholder.com/500x300/FF00FF/FFFFFF?text=Hình+Tím",
+    src: "https://i.pinimg.com/736x/1e/5a/4e/1e5a4ee534c538cf457d8f9932850d20.jpg",
     alt: "Hình lớn màu tím",
     thumbAlt: "Hình ảnh màu tím",
   },
   {
-    src: "https://via.placeholder.com/500x300/00FFFF/000000?text=Hình+Nước+Biển",
+    src: "https://i.pinimg.com/736x/24/11/bc/2411bca766f2778169460974fd4ce3ec.jpg",
     alt: "Hình lớn màu nước biển",
     thumbAlt: "Hình ảnh màu nước biển",
   },
