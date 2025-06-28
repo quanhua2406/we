@@ -1,7 +1,7 @@
 / Mảng chứa thông tin cho mỗi hình thu nhỏ
 const images = [
   {
-    src: "https://via.placeholder.com/500x300/FF0000/FFFFFF?text=Hình+Đỏ",
+    src: "https://i.pinimg.com/736x/08/27/4c/08274c1605aa08bb42fec4d57ea1e632.jpg",
     alt: "Hình lớn màu đỏ",
     thumbAlt: "Hình ảnh màu đỏ",
   },
